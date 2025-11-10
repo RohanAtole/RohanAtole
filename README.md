@@ -39,7 +39,7 @@ I love creating efficient and scalable web applications, exploring new technolog
 ---
 
 ### 🤝 Connect With Me  
-📧 **Email:** atolerohan2003.com  
+📧 **Email:** atolerohan2003@gmail.com  
 💬 Feel free to connect — I’m always open to learning and new opportunities!  
 
 ---
