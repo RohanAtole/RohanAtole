@@ -49,13 +49,15 @@ Source code is private, but the purpose, tech stack, and my contribution are sha
 ### 📊 ERP (Enterprise Resource Planning) Software 🔒
 
 💼 **Client Industry:** Manufacturing & Inventory Management  
-🛠 **Tech Stack:** Java / Spring Boot / Laravel / MySQL / REST APIs  
-🎯 **Key Features:** Stock tracking, billing automation, invoice generation, role-based dashboards, authentication  
+🛠 **Tech Stack:** Java, Spring Boot, Laravel, MySQL, REST APIs  
+🗂 **Version Control:** Git, GitHub, GitLab  
+🎯 **Core Features:** Stock tracking, billing automation, invoice generation, role-based dashboards, authentication  
 👨‍💻 **My Role:** Backend Developer — API design, database modeling, authentication, reporting module  
 🚀 **Highlights:**  
-- Designed RESTful APIs and database architecture  
-- Implemented JWT-based authentication and admin access control  
-- Developed invoice automation and reporting features  
+- Designed scalable database models and RESTful APIs  
+- Implemented JWT authentication and role-based access control  
+- Automated invoice generation and billing workflows  
+- Used GitLab CI/CD for deployment and version management  
 
 > 📂 *Private repository — Demo available upon request*
 
@@ -63,18 +65,24 @@ Source code is private, but the purpose, tech stack, and my contribution are sha
 
 ### 🍽️ MessConnect – Smart Mess & Food Subscription System 🔒
 
-🌐 **Project Type:** Food Subscription & Mess Automation Platform  
-🛠 **Tech Stack:** Java, Spring Boot, MySQL, Firebase, REST APIs  
-🎯 **Key Features:** Meal subscription, online payment, menu listing, QR-based check-in, feedback system, admin panel  
-👨‍💻 **My Role:** Full Stack Developer — Backend APIs, payment integration, DB structuring  
+🌐 **Project Type:** Business-Based Food Subscription & Mess Automation Platform  
+🛠 **Tech Stack:** Java, Spring Boot, PHP, MySQL, Firebase, REST APIs  
+🎨 **Frontend:** HTML, CSS, Bootstrap, JavaScript  
+🗂 **Version Control:** Git, GitHub, GitLab  
+🤝 **Developed By:** *Rohan Atole & Aniket Pawar*  
+🎯 **Purpose:** A commercial project built to automate mess services, digital payments, QR-based tracking, and subscription management  
+👨‍💻 **My Role:** Full Stack Developer — Backend APIs, frontend UI development, payment integration, database structuring  
 🚀 **Highlights:**  
-- Integrated Razorpay for secure digital payments  
-- Built QR attendance and subscription tracking  
-- Designed student, mess-owner & admin dashboards  
+- Designed frontend UI using **Bootstrap, HTML, CSS, and JavaScript**  
+- Built backend using **Java Spring Boot & PHP**  
+- Integrated **Razorpay for secure digital payments**  
+- Developed QR-based attendance, subscription tracking & alert system  
+- Used GitHub for version tracking and GitLab for client collaboration  
 
-> 📂 *Repository confidential — Details available on request*
+> 📂 *Confidential commercial project — Details available on request*
 
 ---
+
 
 ### 📊 GitHub Stats  
 ![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanAtole&show_icons=true&theme=tokyonight)  
