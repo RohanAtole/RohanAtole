@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Rohan Atole  
 
-💻 **Software Engineer | Java | Python | PHP (Laravel) | SQL | MongoDB | Git | Problem Solving**
+💻 **Software Engineer | Java | Spring Boot | Python | PHP (Laravel) | SQL | MongoDB | Git | Problem Solving**
 
 ---
 
