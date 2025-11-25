@@ -123,10 +123,16 @@ Source code is private, but the purpose, tech stack, and my contribution are sha
 ---
 
 
-### 📊 GitHub Stats  
-![Rohan's GitHub Stats](https://raw.githubusercontent.com/rohan-atole/github-stats/master/generated/overview.svg)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanAtole&layout=compact&theme=tokyonight)
-![Streak Stats](https://streak-stats.demolab.com?user=rohan-atole&theme=dark&hide_border=false)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats-roan.vercel.app/api?username=rohan-atole&show_icons=true&theme=dark)
+
+![Top Languages](https://github-readme-stats-roan.vercel.app/api/top-langs/?username=rohan-atole&layout=compact&theme=dark)
+
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=rohan-atole&theme=dark&hide_border=false)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=rohan-atole&margin-w=10&theme=darkhub)
+
 ---
 
 ### 🤝 Connect With Me  
