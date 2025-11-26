@@ -125,8 +125,8 @@ Source code is private, but the purpose, tech stack, and my contribution are sha
 
 ## 📊 GitHub Stats  
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=RohanAtole&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<!-- GitHub Stats (Fixed) -->
+![GitHub Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=RohanAtole&show_icons=true&theme=tokyonight)
 
 <!-- Top Languages -->
 <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=RohanAtole&layout=compact&theme=tokyonight" alt="Top Languages" />
