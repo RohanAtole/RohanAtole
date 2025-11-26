@@ -137,31 +137,6 @@ Source code is private, but the purpose, tech stack, and my contribution are sha
 <!-- GitHub Trophies -->
 <img src="https://github-profile-trophy.vercel.app/?username=RohanAtole&theme=tokyonight" alt="Trophies" />
 
-
-
----
-
-<!-- 🟡 ANIMATED INTRO BANNER -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Rohan+Atole;Backend+Developer+%7C+Laravel;Open+Source+Contributor;Web+Developer;Tech+Learner+%26+Problem+Solver" />
-</p>
-
----
-
-### 👨‍💻 About Me
-- 🚀 Backend Developer (Laravel, PHP, MySQL)
-- 🎯 Passionate about Open Source & Real-world Projects  
-- 🏆 1st & 2nd place in state-level project competitions  
-- 📚 Always exploring new tech & building impactful solutions  
-
----
-
-### ⚙️ Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,react,mysql,git,github,linux,vscode" />
-</p>
-
-
 ---
 
 ### 📫 Connect With Me
