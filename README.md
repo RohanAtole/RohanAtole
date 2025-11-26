@@ -161,47 +161,6 @@ Source code is private, but the purpose, tech stack, and my contribution are sha
   <img src="https://skillicons.dev/icons?i=php,laravel,js,html,css,bootstrap,react,mysql,git,github,linux,vscode" />
 </p>
 
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=RohanAtole&show_icons=true&theme=tokyonight&rank_icon=github&hide_border=true" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohanAtole&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RohanAtole&theme=tokyonight&hide_border=true" height="200" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RohanAtole&theme=tokyonight&margin-w=10&margin-h=10" />
-</p>
-
----
-
-## 📈 Activity Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RohanAtole&theme=tokyo-night" />
-</p>
-
----
-
-## 🚀 Featured Projects  
-<p align="center">
-  <a href="https://github.com/RohanAtole/your-project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RohanAtole&repo=your-project-1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/RohanAtole/your-project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RohanAtole&repo=your-project-2&theme=tokyonight" />
-  </a>
-</p>
-
----
-
-### 🗨️ Developer Quote
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
 
 ---
 
