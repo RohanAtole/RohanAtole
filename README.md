@@ -135,7 +135,7 @@ Source code is private, but the purpose, tech stack, and my contribution are sha
 <img src="https://github-readme-streak-stats-two-kappa.vercel.app/?user=RohanAtole&theme=tokyonight" alt="GitHub Streak" />
 
 <!-- GitHub Trophies -->
-<p align="center">
+<p align="left">
   <img src="https://github-trophies.vercel.app/?username=RohanAtole&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
