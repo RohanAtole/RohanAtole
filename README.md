@@ -125,9 +125,12 @@ Source code is private, but the purpose, tech stack, and my contribution are sha
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://raw.githubusercontent.com/rohanatole/github-stats/main/assets/metrics.svg)
-
-
+## 🔥 GitHub Activity
+GitHub automatically displays my:
+- Contribution graph
+- Commit history
+- Repositories
+  
 ![GitHub followers](https://img.shields.io/github/followers/rohanatole?label=Followers&style=flat)
 ![GitHub stars](https://img.shields.io/github/stars/rohanatole?label=Stars&style=flat)
 ![Repos](https://img.shields.io/badge/Public%20Repos-Active-brightgreen)
