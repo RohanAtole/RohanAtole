@@ -125,11 +125,10 @@ Source code is private, but the purpose, tech stack, and my contribution are sha
 
 ## 📊 GitHub Stats  
 
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanatole&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanatole&show_icons=true&cache_seconds=86400)
 
-<!-- Top Languages -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanatole&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanatole&layout=compact&cache_seconds=86400)
+
 
 
 <!-- GitHub Streak -->
