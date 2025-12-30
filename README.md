@@ -125,10 +125,9 @@ Source code is private, but the purpose, tech stack, and my contribution are sha
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanatole)
-
-
-![Top Languages](https://stats-github.vercel.app/api/top-langs/?username=rohanatole&layout=compact)
+![GitHub followers](https://img.shields.io/github/followers/rohanatole?label=Followers&style=flat)
+![GitHub stars](https://img.shields.io/github/stars/rohanatole?label=Stars&style=flat)
+![Repos](https://img.shields.io/badge/Public%20Repos-Active-brightgreen)
 
 
 
