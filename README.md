@@ -131,10 +131,6 @@ Source code is private, but the purpose, tech stack, and my contribution are sha
 ![Repos](https://img.shields.io/badge/Public%20Repos-Active-brightgreen)
 
 
-![GitHub Metrics](https://metrics.lecoq.io/rohanatole?template=classic&base.header=0&languages=1&languages.limit=6)
-
-
-
 <!-- GitHub Streak -->
 <img src="https://github-readme-streak-stats-two-kappa.vercel.app/?user=RohanAtole&theme=tokyonight" alt="GitHub Streak" />
 
